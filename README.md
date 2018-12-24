@@ -14,6 +14,19 @@
 
 
 
+## 动图预览 (35.5MB)
+
+!(界面预览)[https://github.com/WNJXYK/Gluttonous_Snake_AI/blob/master/Images/RandCtrl.gif]
+
+
+
+## 目录结构
+
+* [Bin](https://github.com/WNJXYK/Gluttonous_Snake_AI/tree/master/Bin) 存放可执行的Jar文件
+* [Samples](https://github.com/WNJXYK/Gluttonous_Snake_AI/tree/master/Samples) 存放了三个示例代码：`Sample.cpp`,`RandCtrl.cpp`,`Ctrl.cpp`
+* [Source_Code](https://github.com/WNJXYK/Gluttonous_Snake_AI/tree/master/Source_Code) 存放Java程序的源代码
+* [Statements](https://github.com/WNJXYK/Gluttonous_Snake_AI/tree/master/Statements) 存放详细的英文使用说明与交互解释
+
 ## 交互规定
 
 程序输入从`stdin`取得数据，输出到`stdout`，调试信息输出到`stderr`。
@@ -37,18 +50,18 @@ public static final int dy[] = {0, 0, -1, 1};
 
 #### 输入格式 (stdin)
 
-$n~k$
+![](http://latex.codecogs.com/gif.latex?n~k)
 
-$x_1~y_1$
+![](http://latex.codecogs.com/gif.latex?x_1~y_1)
 
-$\cdots$
+![](http://latex.codecogs.com/gif.latex?\cdots)
 
-$x_k~y_k$
+![](http://latex.codecogs.com/gif.latex?x_k~y_k)
 
-$x_{food} ~ y_{food}$
+![](http://latex.codecogs.com/gif.latex?x_{food}~y_{food})
 
 #### 输出格式 (stdout)
-$d$
+![](http://latex.codecogs.com/gif.latex?d)
 
 
 
