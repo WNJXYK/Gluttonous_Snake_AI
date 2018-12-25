@@ -16,7 +16,7 @@
 
 ## 动图预览 (35.5MB)
 
-<img src="https://raw.githubusercontent.com/WNJXYK/Gluttonous_Snake_AI/master/Images/RandCtrl.gif"/>
+<img src="https://raw.githubusercontent.com/WNJXYK/Gluttonous_Snake_AI/master/Images/RandCtrl.gif">
 
 ## 目录结构
 
@@ -164,3 +164,4 @@ int main(){
 
 * 控制程序目录不支持存在空格
 * 本程序需要在有Java Runtime Environment的环境下运行
+* 对Sample中的控制程序解释，可以参考：[WNJXYK_BLOG](https://blog.wnjxyk.cn/2018/12/05/gluttonoussnake_ai/)
