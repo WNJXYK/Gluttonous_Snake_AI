@@ -16,9 +16,7 @@
 
 ## 动图预览 (35.5MB)
 
-!(界面预览)[https://raw.githubusercontent.com/WNJXYK/Gluttonous_Snake_AI/master/Images/RandCtrl.gif]
-
-
+<img src="https://raw.githubusercontent.com/WNJXYK/Gluttonous_Snake_AI/master/Images/RandCtrl.gif"/>
 
 ## 目录结构
 
